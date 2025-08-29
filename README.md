@@ -1,6 +1,14 @@
 # BFHL API
-This repo is for the BFHL full stack assignment.  
 
-REST API for BFHL – processes input array into odd/even numbers, alphabets, special characters, and returns metadata. 
+This repository is created for the Full Stack BFHL assignment.  
+The API endpoint is available at:
 
-Hosted URL: https://yourproject.vercel.app/bfhl
+**POST**: https://deepika-bfhl.free.beeceptor.com/bfhl  
+
+## Example Request
+```json
+{
+  "data": ["a", "1", "2", "$"]
+}
+
+***
