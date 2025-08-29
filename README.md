@@ -10,5 +10,3 @@ The API endpoint is available at:
 {
   "data": ["a", "1", "2", "$"]
 }
-
-***
