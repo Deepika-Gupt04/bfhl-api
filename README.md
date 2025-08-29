@@ -11,7 +11,7 @@ The API endpoint is available at:
   "data": ["a", "1", "2", "$"]
 }
 
-**## Example Response**
+## Example Response
 
 {
   "is_success": true,
